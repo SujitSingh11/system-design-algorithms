@@ -12,6 +12,8 @@
 #### Table of contents
 
 - Bloom filter
+- Consistent Hashing
+- Count-Min Sketch
 - Frugal Streaming
 - Geohash / S2 Geometry
 - Leaky bucket / Token bucket
@@ -22,6 +24,8 @@
 - Reverse index
 - Rsync algorithm
 - Trie algorithm
+- HyperLogLog
+- LRU
 
 ### Bloom filter
 A Bloom filter is a data structure designed to tell you, rapidly and memory-efficiently, whether an element is present in a set.
